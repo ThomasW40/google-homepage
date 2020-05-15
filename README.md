@@ -1,0 +1,1 @@
+The purpose of this project is to construct a webpage to familiarize myself with html and CSS.
